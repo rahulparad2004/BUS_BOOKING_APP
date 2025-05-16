@@ -1,0 +1,12 @@
+.env
+Bus_Booking/.env
+bus_booking_server/.env
+node_modules/
+Bus_Booking/node_modules/
+bus_booking_server/node_modules/
+venv/
+Bus_Booking/venv/
+bus_booking_server/venv/
+*.log
+*.DS_Store
+Thumbs.db

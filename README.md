@@ -64,3 +64,13 @@ npm run ios - Launch app on iOS simulator/device
 npm start - Start Metro bundler
 npm run lint - Run ESLint for code linting
 npm test - Run Jest tests
+![Screenshot 2025-05-26 155322](https://github.com/user-attachments/assets/ec1ff194-d09b-47a1-aacb-1ef30c12fa45)
+
+![Screenshot 2025-05-26 155408](https://github.com/user-attachments/assets/29fdf34c-1b75-4f27-b815-c1b48e26c5ee)
+
+![Screenshot 2025-05-26 155436](https://github.com/user-attachments/assets/a1b7d2da-acf1-4907-aebb-85aa8cca0e4c)
+![Screenshot 2025-05-26 155455](https://github.com/user-attachments/assets/a36f4c96-0988-48c3-acf3-535c8d407440)
+
+![Screenshot 2025-05-26 155518](https://github.com/user-attachments/assets/c51ba188-afb2-4809-9a8f-485278f5c8ad)
+
+
